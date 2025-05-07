@@ -1,1 +1,3 @@
-# mobilenetv2-emotion-detection
+conda activate tf-m1
+
+conda deactivate
